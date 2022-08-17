@@ -16,3 +16,4 @@ The few highlights:
 -The last thing was the importance of the "for loop". I'm not even sure I have my brain totally wrapped around it, but plan to continue to study it. 
 
 ## Screenshot
+![Screen Shot 2022-08-17 at 5 00 26 PM](https://user-images.githubusercontent.com/109236891/185251027-b06b30e3-466f-408e-b9e1-a5560047410b.png)
