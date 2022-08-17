@@ -1,6 +1,7 @@
 # Password-Generator
 This was my first attempt at writing Javascript. For this assignment, I was given starter code that included complete files for HTML and CSS. 
-Deployed Application:
+
+Deployed Application: https://leah-choco.github.io/Password-Generator/
 
 ## Goals of the Password Generator
 I needed to provide a series of prompts to determine:
